@@ -1,2 +1,2 @@
-spring
-  name: config-test.yml
+config:
+  info: "config-test.yml  version = 2"
